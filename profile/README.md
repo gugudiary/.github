@@ -3,3 +3,4 @@
 - 如果对咕咕日历项目感兴趣可以添加QQ群:941142316
 
 ## 关于使用
+- [VCC添加](vcc://vpm/addRepo?url=https://mmyo456.github.io/events-calendar/index.json)
