@@ -5,7 +5,7 @@
 
 ## 相关链接
 - [VCC添加](https://mmyo456.github.io/events-calendar/)
-- [中文吧投稿](https://rlvrc.cn/admin/v1/rlvrc_pages_chinese_bar_picture_add.php)
+- [中文吧投稿](https://cnarthub.rlvrc.cn)
 - [匿名投递](https://rlvrc.cn/api/submit.html)
 - [社团登记](https://rlvrc.cn/shetuandj)
 - [社团查询](https://rlvrc.cn/shetuan)
